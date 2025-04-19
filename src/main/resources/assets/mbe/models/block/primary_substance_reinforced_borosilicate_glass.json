@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mbe:block/primary_substance_reinforced_borosilicate_glass"
+  }
+}

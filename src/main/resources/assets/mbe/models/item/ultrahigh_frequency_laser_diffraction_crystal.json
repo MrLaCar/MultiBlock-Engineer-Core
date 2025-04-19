@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mbe:item/ultrahigh_frequency_laser_diffraction_crystal"
+  }
+}

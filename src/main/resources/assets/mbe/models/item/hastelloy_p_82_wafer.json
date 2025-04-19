@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mbe:item/hastelloy_p_82_wafer"
+  }
+}

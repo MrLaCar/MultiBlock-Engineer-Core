@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mbe:item/t2_annihilation_pivot_fuel_cluster"
+  }
+}

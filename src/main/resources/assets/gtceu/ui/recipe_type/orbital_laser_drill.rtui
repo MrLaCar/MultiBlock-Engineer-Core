@@ -1,0 +1,609 @@
+
+   
+recipe_type gtceu:orbital_laser_drill
+ root
+ selfPosition x   " y    
+ size width   g height     	 children
+   
+ data
+ selfPosition x    y   c 
+ size width    height   , 	 children     	 tooltipTexts      id    type group 
+ data
+ selfPosition x   f y     
+ size width   > height     	 children
+   #
+ data
+ selfPosition x     y     
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_0 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y     
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_1 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y     
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_2 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y     
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_3 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y     
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_4 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   (  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_5 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   (  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_6 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   (  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_7 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   (  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_8 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   (  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_9 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   :  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_10 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   :  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_11 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   :  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_12 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   :  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_13 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   :  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_14 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   L  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_15 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   L  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_16 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   L  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_17 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   L  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_18 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   L  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_19 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   ^  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_20 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   ^  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_21 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   ^  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_22 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   ^  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_23 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   ^  
+canPutItems
+ size width    height     drawHoverOverlay	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation  gtceu:textures/gui/base/slot.png  type border_texture  canTakeItems id 
+item_out_24 
+drawHoverTips  type 	item_slot 
+ data
+ selfPosition x     y   p 
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_0 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 
+ data
+ selfPosition x     y   p 
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_1 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 
+ data
+ selfPosition x     y   p 
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_2 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 
+ data
+ selfPosition x     y   p 
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_3 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 
+ data
+ selfPosition x     y   p 
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_4 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 
+ data
+ selfPosition x     y     
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_5 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 
+ data
+ selfPosition x     y     
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_6 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 
+ data
+ selfPosition x     y     
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_7 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 
+ data
+ selfPosition x     y     
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_8 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 
+ data
+ selfPosition x     y     
+ size width    height     drawHoverOverlay 
+fillDirection 
+ALWAYS_FULL	 tooltipTexts     
+ backgroundTexture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation &gtceu:textures/gui/base/fluid_slot.png  type border_texture  
+showAmount allowClickDrained id 
+fluid_out_9 allowClickFilled 
+drawHoverTips  type 
+fluid_slot 	 tooltipTexts      id    type group 	 tooltipTexts      id   
+ 	resources
+ ldlib.gui.editor.group.textures
+ 2ldlib.gui.editor.register.texture.progress_texture
+ data  yOffset      xOffset     
+fillDirection 
+DOWN_TO_UP rotation     scale?   
+ 
+filledBarArea
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY?    color     rotation     scale?    
+imageHeight?    
+imageLocation (ldlib:textures/gui/progress_bar_fuel.png  type resource_texture 
+ emptyBarArea
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?    
+imageHeight?    
+imageLocation (ldlib:textures/gui/progress_bar_fuel.png  type resource_texture   type progress_texture 
+ 
+fluid slot
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation !ldlib:textures/gui/fluid_slot.png  type border_texture 
+ 
+tab pressed
+ data  offsetX?    
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?    
+imageHeight>    
+imageLocation  ldlib:textures/gui/tabs_left.png  type resource_texture 
+ 4ldlib.gui.editor.register.texture.color_rect_texture
+ data radiusRT      yOffset      xOffset     colorO   rotation     radiusRB     scale?    radiusLB     radiusLT      type color_rect_texture 
+ 0ldlib.gui.editor.register.texture.border_texture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width     height      
+imageHeight?   
+ 	boderSize width    height     
+imageLocation /ldlib:textures/gui/bordered_background_blue.png  type border_texture 
+ slot
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation ldlib:textures/gui/slot.png  type border_texture 
+ .ldlib.gui.editor.register.texture.text_texture
+ data 
+dropShadow   yOffset     backgroundColor      xOffset     color     	rollSpeed?    rotation     width   2 scale?    text A type NORMAL  type text_texture 
+ button
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width     height      
+imageHeight?   
+ 	boderSize width    height     
+imageLocation ldlib:textures/gui/button.png  type border_texture 
+ tab
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?    
+imageHeight>    
+imageLocation  ldlib:textures/gui/tabs_left.png  type resource_texture 
+ /ldlib.gui.editor.register.texture.group_texture
+ data  yOffset      xOffset    	 textures
+   
+ p
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation !ldlib:textures/gui/background.png  type border_texture  t
+ 
+ p
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?    
+imageHeight?    
+imageLocation ldlib:textures/gui/icon.png  type resource_texture  t
+  rotation     scale?     type 
+group_texture 
+ border background
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?   
+ 	imageSize width    height     
+imageHeight?   
+ 	boderSize width    height     
+imageLocation !ldlib:textures/gui/background.png  type border_texture 
+ 0ldlib.gui.editor.register.texture.shader_texture
+ data  yOffset      xOffset     color     rotation     scale?    location 	ldlib:fbm 
+resolution@     type shader_texture 
+ 6ldlib.gui.editor.register.texture.color_border_texture
+ data border      yOffset      xOffset     
+radiusRBOuter     colorO   
+radiusLBOuter     rotation     
+radiusLTInner     scale?    
+radiusLTOuter     
+radiusLBInner     
+radiusRBInner     
+radiusRTOuter     
+radiusRTInner      type color_border_texture 
+ 3ldlib.gui.editor.register.texture.animation_texture
+ data  yOffset      xOffset     color     rotation     scale?    from     to   , cellSize    
+imageLocation  ldlib:textures/gui/particles.png 	animation     type animation_texture 
+ 2ldlib.gui.editor.register.texture.resource_texture
+ data  offsetX     
+imageWidth?     yOffset      xOffset      offsetY     color     rotation     scale?    
+imageHeight?    
+imageLocation ldlib:textures/gui/icon.png  type resource_texture  
+ ldlib.gui.editor.group.colors WHITE     GRAY fff T_RED  "  T_WHITE     GREEN 3    T_GREEN 3   RED  "  T_BLACKD""" BLACK """ YELLOW   3 CYAN 3ww T_GRAYffff T_YELLOW   3 T_CYAN 3ww 
+ ldlib.gui.editor.group.entries ldlib.author Hello KilaBash!   

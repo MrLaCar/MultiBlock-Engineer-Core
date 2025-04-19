@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "mbe:block/variant/matter_decompose_heat_vent"
+    },
+    "active=true": {
+      "model": "mbe:block/variant/matter_decompose_heat_vent_active"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "flip_v": true,
+  "loader": "forge:obj",
+  "model": "mbe:models/renderer/disorder_point.obj",
+  "textures": {
+    "texture0": "mbe:block/renderer/disorder_point_layer",
+    "particle":"mbe:block/renderer/disorder_point_layer"
+  }
+}

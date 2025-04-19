@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+#issueTrackerURL = ""
+license = "MIT"
+
+[[mods]]
+modId = "mbe"
+logoFile="logo.png"
+displayURL="https://github.com/MrLaCar/MultiBlock-Engineer"
+version = "${version}"
+displayName = "MultiBlock Engineer"
+authors = "MrLaCar"
+description = '''
+Core Mod for MultiBlock Engineer with New Contents
+'''
+
+[[dependencies.mbe]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.mbe]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"

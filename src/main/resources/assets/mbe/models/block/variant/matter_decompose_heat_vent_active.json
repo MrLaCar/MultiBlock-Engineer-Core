@@ -1,0 +1,8 @@
+{
+	"parent": "mbe:block/mass_decompose_heat_vent_bloom",
+	"textures": {
+		"bottom": "mbe:block/matter_decompose_heat_vent",
+		"side": "mbe:block/matter_decompose_heat_vent",
+		"top": "mbe:block/matter_decompose_heat_vent"
+	}
+}

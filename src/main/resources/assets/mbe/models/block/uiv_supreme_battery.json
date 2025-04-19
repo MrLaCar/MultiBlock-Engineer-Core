@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"bottom": "mbe:block/casings/battery/uiv_supreme/top",
+		"side": "mbe:block/casings/battery/uiv_supreme/side",
+		"top": "mbe:block/casings/battery/uiv_supreme/top"
+	}
+}

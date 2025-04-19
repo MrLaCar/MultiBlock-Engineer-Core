@@ -1,0 +1,9 @@
+{
+  "values": [
+    "mbe:dimension_mapping_processor_mainframe",
+    "mbe:cosmic_processor_computer",
+    "mbe:surreal_processor_assembly",
+    "mbe:creational_processor",
+    "mbe:uxv_general_circuit"
+  ]
+}

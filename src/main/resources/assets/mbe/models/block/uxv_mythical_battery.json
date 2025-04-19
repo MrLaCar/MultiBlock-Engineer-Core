@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"bottom": "mbe:block/casings/battery/uxv_mythical/top",
+		"side": "mbe:block/casings/battery/uxv_mythical/side",
+		"top": "mbe:block/casings/battery/uxv_mythical/top"
+	}
+}

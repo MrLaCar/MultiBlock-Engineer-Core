@@ -1,0 +1,16 @@
+{
+    "animation": {
+    "interpolate": true,
+    "frames": [
+      {"index": 0, "time": 8},
+      {"index": 1, "time": 8}
+    ]
+  },
+    "ldlib": {
+        "connection": "mbe:block/casings/coils/machine_coil_primary_substance_bloom_ctm",
+        "emissive": true
+    },
+    "shimmer": {
+        "bloom": true
+    }
+}

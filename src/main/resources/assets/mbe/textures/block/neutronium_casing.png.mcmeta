@@ -1,0 +1,5 @@
+{
+    "ldlib": {
+        "connection": "mbe:block/neutronium_casing_ctm"
+    }
+}

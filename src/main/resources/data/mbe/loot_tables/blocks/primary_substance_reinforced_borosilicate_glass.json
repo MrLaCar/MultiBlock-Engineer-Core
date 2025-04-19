@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mbe:primary_substance_reinforced_borosilicate_glass"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "mbe:blocks/primary_substance_reinforced_borosilicate_glass"
+}

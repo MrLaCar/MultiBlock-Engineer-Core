@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube",
+  "gui_light": "front",
+  "textures": {
+    "down": "mbe:block/dim_markers/mars",
+    "east": "mbe:block/dim_markers/mars",
+    "north": "mbe:block/dim_markers/mars",
+    "particle": "#north",
+    "south": "mbe:block/dim_markers/mars",
+    "up": "mbe:block/dim_markers/mars",
+    "west": "mbe:block/dim_markers/mars"
+  }
+}

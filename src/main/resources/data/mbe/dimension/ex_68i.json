@@ -1,0 +1,11 @@
+{
+  "type": "mbe:ex_68i",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "mbe:ex_68i",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "mbe:ex_68i_plain"
+    }
+  }
+}

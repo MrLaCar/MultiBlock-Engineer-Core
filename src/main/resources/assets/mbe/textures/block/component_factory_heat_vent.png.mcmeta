@@ -1,0 +1,5 @@
+{
+    "ldlib": {
+        "connection": "mbe:block/component_factory_heat_vent_ctm"
+    }
+}

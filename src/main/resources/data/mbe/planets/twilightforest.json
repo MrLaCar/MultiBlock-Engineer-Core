@@ -1,0 +1,10 @@
+{
+  "dimension": "twilightforest:twilight_forest",
+  "gravity": 9.807,
+  "orbit": "mbe:twilightforest_orbit",
+  "oxygen": true,
+  "solar_power": 10,
+  "solar_system": "ad_astra:solar_system",
+  "temperature": 15,
+  "tier": 2
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "mbe:block/variant/pressure_stabilizer"
+    },
+    "active=true": {
+      "model": "mbe:block/variant/pressure_stabilizer_active"
+    }
+  }
+}

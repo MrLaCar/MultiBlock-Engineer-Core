@@ -1,0 +1,10 @@
+{
+  "dimension": "mbe:ex_68i",
+  "gravity": 5.377,
+  "orbit": "mbe:ex_68i_orbit",
+  "oxygen": false,
+  "solar_power": 0,
+  "solar_system": "mbe:ex_940_system",
+  "temperature": -246,
+  "tier": 7
+}

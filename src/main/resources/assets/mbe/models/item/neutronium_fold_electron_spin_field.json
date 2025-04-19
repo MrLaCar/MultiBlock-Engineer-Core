@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mbe:item/neutronium_fold_electron_spin_field"
+  }
+}

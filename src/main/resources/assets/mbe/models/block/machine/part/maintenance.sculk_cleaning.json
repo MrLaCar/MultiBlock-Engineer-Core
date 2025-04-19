@@ -1,0 +1,8 @@
+{
+  "parent": "gtceu:block/overlay/front_emissive",
+  "textures": {
+    "particle": "mbe:block/overlay/machine/overlay_sculk_maintenance_cleaning",
+    "overlay": "mbe:block/overlay/machine/overlay_sculk_maintenance_cleaning",
+    "overlay_emissive": "mbe:block/overlay/machine/overlay_sculk_maintenance_cleaning_emissive"
+  }
+}

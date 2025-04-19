@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mbe:block/mass_expansion_suppression_glass"
+    }
+  }
+}

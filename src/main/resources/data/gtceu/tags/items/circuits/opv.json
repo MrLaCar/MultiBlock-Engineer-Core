@@ -1,0 +1,8 @@
+{
+  "values": [
+    "mbe:cosmic_processor_mainframe",
+    "mbe:surreal_processor_computer",
+    "mbe:creational_processor_assembly",
+    "mbe:opv_general_circuit"
+  ]
+}

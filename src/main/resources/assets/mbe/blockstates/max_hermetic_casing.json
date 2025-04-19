@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mbe:block/max_hermetic_casing"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "mbe:block/variant/parallel_universe_bridge_casing"
+    },
+    "active=true": {
+      "model": "mbe:block/variant/parallel_universe_bridge_casing_active"
+    }
+  }
+}

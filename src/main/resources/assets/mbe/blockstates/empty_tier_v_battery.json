@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mbe:block/empty_tier_v_battery"
+    }
+  }
+}

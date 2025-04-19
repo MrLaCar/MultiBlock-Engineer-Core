@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "mbe:block/variant/instability_field_regulator_mk2"
+    },
+    "active=true": {
+      "model": "mbe:block/variant/instability_field_regulator_mk2_active"
+    }
+  }
+}

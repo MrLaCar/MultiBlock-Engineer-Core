@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "formed=false": {
+      "model": "mbe:block/crafting/262144k_storage"
+    },
+    "formed=true": {
+      "model": "mbe:block/crafting/262144k_storage_formed"
+    }
+  }
+}

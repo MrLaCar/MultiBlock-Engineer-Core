@@ -1,0 +1,11 @@
+
+{
+  "variants": {
+    "active=false": {
+      "model": "mbe:block/omterium_coil_block"
+    },
+    "active=true": {
+      "model": "mbe:block/omterium_coil_block_active"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "animation":{
+    "frametime": 3,
+    "interpolate": true
+   },
+  "ldlib": {
+    "connection": "mbe:block/parallel_universe_bridge_casing_active_ctm",
+    "emissive": true
+  },
+  "shimmer": {
+    "bloom": true
+   }
+}

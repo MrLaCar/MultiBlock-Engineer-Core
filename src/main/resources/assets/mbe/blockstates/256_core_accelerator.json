@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "formed=false": {
+      "model": "mbe:block/crafting/256_core_accelerator"
+    },
+    "formed=true": {
+      "model": "mbe:block/crafting/256_core_accelerator_formed"
+    }
+  }
+}

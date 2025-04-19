@@ -1,0 +1,9 @@
+{
+  "flip_v": true,
+  "loader": "forge:obj",
+  "model": "mbe:models/renderer/universe.obj",
+  "textures": {
+    "texture0": "mbe:block/renderer/universe_layer",
+    "particle":"mbe:block/renderer/universe_layer"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "mbe:flat",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "mbe:flat",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:deepslate",
+          "height": 31
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 32
+        },
+        {
+          "block": "minecraft:dirt",
+          "height": 31
+        },
+        {
+          "block": "minecraft:grass_block",
+          "height": 1
+        }
+      ]
+    }
+  }
+}

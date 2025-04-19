@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "mbe:block/variant/power_acceleration_rail"
+    },
+    "active=true": {
+      "model": "mbe:block/variant/power_acceleration_rail_active"
+    }
+  }
+}

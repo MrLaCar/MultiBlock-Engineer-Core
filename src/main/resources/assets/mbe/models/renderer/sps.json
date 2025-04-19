@@ -1,0 +1,9 @@
+{
+  "flip_v": true,
+  "loader": "forge:obj",
+  "model": "mbe:models/renderer/sps.obj",
+  "textures": {
+    "texture0": "mbe:block/renderer/sps_layer",
+    "particle":"mbe:block/renderer/sps_layer"
+  }
+}

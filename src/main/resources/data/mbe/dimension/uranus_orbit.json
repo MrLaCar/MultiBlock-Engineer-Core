@@ -1,0 +1,11 @@
+{
+  "type": "mbe:uranus_orbit",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "mbe:orbit"
+    },
+    "settings": "mbe:orbit"
+  }
+}

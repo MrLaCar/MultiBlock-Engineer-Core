@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mbe:item/hyperquadrant_overlay_contract_area_intrinsic_matter_foil"
+  },
+  "loader": "avaritia:cosmic",
+  "cosmic": {
+    "mask": "mbe:mask/hyperquadrant_overlay_contract_area_intrinsic_matter_foil_mask"
+  }
+}

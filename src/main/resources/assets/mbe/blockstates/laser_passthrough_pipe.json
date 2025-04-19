@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mbe:block/laser_passthrough_pipe"
+    }
+  }
+}

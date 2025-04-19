@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"bottom": "mbe:block/high_precise_inert_casing",
+		"side": "mbe:block/instability_field_regulator_mk3_active",
+		"top": "mbe:block/high_precise_inert_casing"
+	}
+}

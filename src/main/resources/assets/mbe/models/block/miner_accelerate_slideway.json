@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"bottom": "mbe:block/miner_accelerate_slideway_top",
+		"side": "mbe:block/miner_accelerate_slideway",
+		"top": "mbe:block/miner_accelerate_slideway_top"
+	}
+}

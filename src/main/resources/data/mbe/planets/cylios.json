@@ -1,0 +1,10 @@
+{
+  "dimension": "mbe:cylios",
+  "gravity": 11.524,
+  "orbit": "mbe:cylios_orbit",
+  "oxygen": false,
+  "solar_power": 0,
+  "solar_system": "mbe:ex_940_system",
+  "temperature": 184,
+  "tier": 6
+}

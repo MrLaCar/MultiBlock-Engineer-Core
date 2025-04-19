@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mbe:block/convective_spacetime_traction_casing"
+  }
+}

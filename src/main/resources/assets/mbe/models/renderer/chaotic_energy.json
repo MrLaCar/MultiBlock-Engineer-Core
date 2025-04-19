@@ -1,0 +1,9 @@
+{
+  "flip_v": true,
+  "loader": "forge:obj",
+  "model": "mbe:models/renderer/chaotic_energy.obj",
+  "textures": {
+    "texture0": "mbe:block/renderer/chaotic_energy_layer",
+    "particle":"mbe:block/renderer/chaotic_energy_layer"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sps": {
+    "sounds": [
+      {
+        "type": "file",
+        "name": "gtceu:sps"
+      }
+    ],
+    "subtitle": "gtceu.subtitle.sps"
+  }
+}

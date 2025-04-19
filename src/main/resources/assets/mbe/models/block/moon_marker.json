@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube",
+  "gui_light": "front",
+  "textures": {
+    "down": "ad_astra:block/moon_sand",
+    "east": "ad_astra:block/moon_sand",
+    "north": "ad_astra:block/moon_sand",
+    "particle": "#north",
+    "south": "ad_astra:block/moon_sand",
+    "up": "ad_astra:block/moon_sand",
+    "west": "ad_astra:block/moon_sand"
+  }
+}

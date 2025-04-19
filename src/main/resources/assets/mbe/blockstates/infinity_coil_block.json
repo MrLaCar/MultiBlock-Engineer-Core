@@ -1,0 +1,11 @@
+
+{
+  "variants": {
+    "active=false": {
+      "model": "mbe:block/infinity_coil_block"
+    },
+    "active=true": {
+      "model": "mbe:block/infinity_coil_block_active"
+    }
+  }
+}

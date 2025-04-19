@@ -1,0 +1,5 @@
+{
+    "ldlib": {
+        "connection": "mbe:block/energy_restraint_casing_ctm"
+    }
+}

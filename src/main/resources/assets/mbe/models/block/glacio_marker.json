@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube",
+  "gui_light": "front",
+  "textures": {
+    "down": "mbe:block/dim_markers/glacio",
+    "east": "mbe:block/dim_markers/glacio",
+    "north": "mbe:block/dim_markers/glacio",
+    "particle": "#north",
+    "south": "mbe:block/dim_markers/glacio",
+    "up": "mbe:block/dim_markers/glacio",
+    "west": "mbe:block/dim_markers/glacio"
+  }
+}

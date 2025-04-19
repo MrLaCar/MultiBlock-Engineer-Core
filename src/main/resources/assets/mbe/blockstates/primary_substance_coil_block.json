@@ -1,0 +1,11 @@
+
+{
+  "variants": {
+    "active=false": {
+      "model": "mbe:block/primary_substance_coil_block"
+    },
+    "active=true": {
+      "model": "mbe:block/primary_substance_coil_block_active"
+    }
+  }
+}

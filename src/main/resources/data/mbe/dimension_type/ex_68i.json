@@ -1,0 +1,19 @@
+{
+  "ambient_light": 0.0,
+  "bed_works": false,
+  "coordinate_scale": 12,
+  "has_ceiling": false,
+  "has_raids": false,
+  "has_skylight": false,
+  "effects": "mbe:ex_68i",
+  "min_y": -64,
+  "height": 384,
+  "logical_height": 384,
+  "infiniburn": "#minecraft:infiniburn_end",
+  "monster_spawn_block_light_limit": 0,
+  "monster_spawn_light_level": 0,
+  "natural": false,
+  "piglin_safe": false,
+  "respawn_anchor_works": false,
+  "ultrawarm": false
+}

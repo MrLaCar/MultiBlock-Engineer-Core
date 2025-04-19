@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mbe:block/extreme_strength_compressed_explosionproof_casing"
+  }
+}

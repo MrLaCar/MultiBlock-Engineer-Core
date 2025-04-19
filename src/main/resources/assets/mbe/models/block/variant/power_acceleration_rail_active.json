@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"bottom": "mbe:block/dyson_sphere_base_station_casing",
+		"side": "mbe:block/power_acceleration_rail_active",
+		"top": "mbe:block/dyson_sphere_base_station_casing"
+	}
+}

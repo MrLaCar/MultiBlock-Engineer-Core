@@ -1,0 +1,8 @@
+{
+  "parent": "gtceu:block/overlay/front_emissive",
+  "textures": {
+    "particle": "mbe:block/overlay/machine/overlay_radioactive_source_hatch",
+    "overlay": "mbe:block/overlay/machine/overlay_radioactive_source_hatch",
+    "overlay_emissive": "mbe:block/overlay/machine/overlay_radioactive_source_hatch_emissive"
+  }
+}
